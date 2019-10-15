@@ -57,7 +57,6 @@ public class AppController extends BaseController {
 		}
 
 		map.put("appTitle", getAppTitle(request));
-		map.put("appName", getAppName(request));
 		map.put("container", (proxy == null) ? "" : buildContainerPath(request));
 		
 		return "app";
