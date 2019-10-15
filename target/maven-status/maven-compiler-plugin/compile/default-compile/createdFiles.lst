@@ -1,0 +1,12 @@
+eu/openanalytics/shinyproxy/ShinyProxyConfiguration.class
+eu/openanalytics/shinyproxy/controllers/IndexController.class
+eu/openanalytics/shinyproxy/controllers/IssueController.class
+eu/openanalytics/shinyproxy/ShinyProxyTestStrategy.class
+eu/openanalytics/shinyproxy/controllers/AppController.class
+eu/openanalytics/shinyproxy/controllers/AdminController.class
+eu/openanalytics/shinyproxy/controllers/BaseController.class
+eu/openanalytics/shinyproxy/ShinyProxySpecProvider.class
+eu/openanalytics/shinyproxy/UISecurityConfig.class
+eu/openanalytics/shinyproxy/controllers/IssueController$IssueForm.class
+eu/openanalytics/shinyproxy/ShinyProxySpecProvider$ShinyProxySpec.class
+eu/openanalytics/shinyproxy/ShinyProxySpecMergeStrategy.class

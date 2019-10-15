@@ -1,0 +1,10 @@
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/ShinyProxyConfiguration.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/ShinyProxyTestStrategy.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/controllers/AdminController.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/controllers/IssueController.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/controllers/IndexController.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/UISecurityConfig.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/controllers/BaseController.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/ShinyProxySpecMergeStrategy.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/controllers/AppController.java
+/home/felipe/repositories/shinyproxy/src/main/java/eu/openanalytics/shinyproxy/ShinyProxySpecProvider.java
